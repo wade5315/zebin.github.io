@@ -5,7 +5,6 @@
 <!--img src="file:///F:/potato/DSCN1170.JPG" width="1000" height="600" / -->
 <h1 style="text-align:center">This is a heading</h1>
 <!--梅强是猪，梅政是猪，板是直男，ED是潮男，梅强+梅政=皇家野猪，ED+板=潮汐。-->
-<p><a name="tips">梅强</a></p>
 <br />
 <a href="http://www.baidu.com.cn/">百度</a>
 <hr/>
@@ -18,6 +17,7 @@
 <h4>HEADING1</h4>
 <p style="text-align:center;font-size:40px;color:blue"><b>别信神，但信人</b></p>
 <p style="text-align:center"><img src="file:///C:/Users/pc2/Pictures/Camera%20Roll/enping.jpg"width="500" height="800" align ="left" alt="恩平地图"/></p>
+<p><a name="tips">梅强</a></p>
 <table>
 <tr>
 <th>受</th>
