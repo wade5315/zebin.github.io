@@ -1,7 +1,7 @@
 # zebin.github.io
 <html>
-<!--body style="background-color:skyblue"-->
-<body background="file:///C:/Users/pc2/Pictures/Camera%20Roll/nature_sz_178_water_air_and_greenery_939_16.jpg">
+<body style="background-color:skyblue">
+<!--body background="file:///C:/Users/pc2/Pictures/Camera%20Roll/nature_sz_178_water_air_and_greenery_939_16.jpg"-->
 <!--img src="file:///F:/potato/DSCN1170.JPG" width="1000" height="600" / -->
 <h1 style="text-align:center">This is a heading</h1>
 <!--梅强是猪，梅政是猪，板是直男，ED是潮男，梅强+梅政=皇家野猪，ED+板=潮汐。-->
