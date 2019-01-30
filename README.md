@@ -1,6 +1,6 @@
 # zebin.github.io
 <html>
-<body style="background-color:skyblue">
+<body style="background-color:blue">
 <!--body background="file:///C:/Users/pc2/Pictures/Camera%20Roll/nature_sz_178_water_air_and_greenery_939_16.jpg"-->
 <!--img src="file:///F:/potato/DSCN1170.JPG" width="1000" height="600" / -->
 <h1 style="text-align:center">This is a heading</h1>
